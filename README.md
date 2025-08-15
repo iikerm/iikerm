@@ -2,10 +2,6 @@
 I am a Computer Science Engineering student at the University of Alicante (UA), and have a passion for programming, game development, and basically any kind of challenge that can help me to learn something new.
 
 ## 🧱 My tech stack
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&show_icons=true&locale=en&layout=compact" alt="iikerm" /></p>
-</div>
-
 ### Main programming languages
 <table>
   <tr>
@@ -61,7 +57,11 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
   </tr>
 </table>
 
-### Other programming languages
+<h3>Other programming languages</h3>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&show_icons=true&locale=en" alt="iikerm's github languages" />
+</p>
+
 Other languages that I can use include:
 - **SQL** (SqlServer, Sqlite & PL/SQL)
 - **HTML+CSS** for website development, and with **JavaScript** to develop web apps using **electronJS**
