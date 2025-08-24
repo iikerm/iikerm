@@ -57,17 +57,21 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
   </tr>
 </table>
 
-<h3>Other programming languages</h3>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&show_icons=true&locale=en" alt="iikerm's github languages" />
-</p>
-
-Other languages that I can use include:
-- **SQL** (SqlServer, Sqlite & PL/SQL)
-- **HTML+CSS** for website development, and with **JavaScript** to develop web apps using **electronJS**
-- Assembly (**x86** and **MIPS**)
-- **Java**
-- **Swift**
+<div>
+  <h3>Other programming languages</h3>
+  <p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&show_icons=true&locale=en&langs_count=6" alt="iikerm's github languages" />
+  </p>
+  
+  Other languages that I can use include:
+  - **SQL** (SqlServer, Sqlite & PL/SQL)
+  - **HTML+CSS** for website development, and with **JavaScript** to develop web apps using **electronJS**
+  - Assembly (**x86** and **MIPS**)
+  - **Java**
+  - **Swift**
+</div>
+<br>
+<br>
 
 ### Extra technologies
 I have also worked using technologies like **MMX** and **SSE** for improving speed in x86 assembly programs.
