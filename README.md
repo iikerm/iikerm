@@ -39,7 +39,7 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
     </td>
     <td>
       <ul>
-        <li>Graphics rendering using libraries like <code>gfx</code> and <code>tigr</code></li>
+        <li>Graphics rendering using libraries like <code>gfx</code>, <code>tigr</code> and <code>SDL3</code></li>
         <li>Simple network connection management using native C sockets</li>
         <li>Process forking, children management process communication using pipelines and shared memory</li>
       </ul>
@@ -57,19 +57,18 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
   </tr>
 </table>
 
-<div>
-  <h3>Other programming languages</h3>
-  <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&show_icons=true&locale=en&langs_count=6" alt="iikerm's github languages" />
-  </p>
-  
-  Other languages that I can use include:
-  - **SQL** (SqlServer, Sqlite & PL/SQL)
-  - **HTML+CSS** for website development, and with **JavaScript** to develop web apps using **electronJS**
-  - Assembly (**x86** and **MIPS**)
-  - **Java**
-  - **Swift**
-</div>
+<h3>Other programming languages</h3>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&show_icons=true&locale=en&langs_count=6" alt="iikerm's github languages" />
+</p>
+
+Other languages that I can use include:
+- **SQL** (SqlServer, Sqlite & PL/SQL)
+- **HTML+CSS** for website development, and with **JavaScript** to develop web apps using **electronJS**
+- Assembly (**x86** and **MIPS**)
+- **Java**
+- **Swift**
+
 <br>
 <br>
 
