@@ -87,6 +87,17 @@ I have pinned my best projects to my profile, but here are some of them:
 - My [2D Render and Raycasting simulator](https://github.com/iikerm/2D-raycasting-sim)
 - Custom versions of games like [snake](https://github.com/iikerm/sfml-snake) or [minesweeper](https://github.com/iikerm/sfml-minesweeper)
 
+<a href="https://github.com/iikerm/2D-raycasting-sim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iikerm&repo=2D-raycasting-sim" />
+</a>
+
+<a href="https://github.com/iikerm/sfml-snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iikerm&repo=sfml-snake" />
+</a>
+<a href="https://github.com/iikerm/sfml-minesweeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iikerm&repo=sfml-minesweeper" />
+</a>
+
 ## 🌐Socials
 <a href="" target="_blank" rel="noreferrer">
   <picture>
