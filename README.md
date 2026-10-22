@@ -4,7 +4,7 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
 
 ## 🧱 My tech stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iikerm&layout=donut&show_icons=true&locale=en&langs_count=6" alt="iikerm's github languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=iikerm&layout=donut&show_icons=true&locale=en&langs_count=6" alt="iikerm's github languages" />
 </p>
 <div>
   <h3>Main programming languages</h3>
@@ -15,7 +15,7 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
     </tr>
     <tr>
       <td>
-        <a title="Python" alt="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+        <a title="Python" alt="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
       </td>
       <td>
         <ul>
@@ -28,7 +28,7 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
     </tr>
     <tr>
       <td>
-        <a title="C++" alt="cplusplus" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+        <a title="C++" alt="cplusplus" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
       </td>
       <td>
         <ul>
@@ -40,7 +40,7 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
     </tr>
     <tr>
       <td>
-        <a title="C" alt="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38"/>
+        <a title="C" alt="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38"/></a>
       </td>
       <td>
         <ul>
@@ -52,7 +52,18 @@ I am a Computer Science Engineering student at the University of Alicante (UA), 
     </tr>
     <tr>
       <td>
-        <a title="C#" alt="csharp" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+        <a title="Java" alt="Java" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+      </td>
+      <td>
+        <ul>
+          <li>Object-oriented design</li>
+          <li>Distributed system communication using the <code>Kafka</code> library</li>
+        </ul>
+      </td>
+    </tr>    
+    <tr>
+      <td>
+        <a title="C#" alt="csharp" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
       </td>
       <td>
         <ul>
@@ -69,15 +80,11 @@ Other languages that I can use include:
 - **SQL** (SqlServer, Sqlite & PL/SQL)
 - **HTML+CSS** for website development, and with **JavaScript** to develop web apps using **electronJS**
 - Assembly (**x86** and **MIPS**)
-- **Java**
 - **Swift**
 
-<br>
-<br>
-
 ### Extra technologies
-I have also worked using technologies like **MMX** and **SSE** for improving speed in x86 assembly programs.
-On top of this, I also have experience working with **CUDA** in NVIDIA graphics cards to accelerate programs written in C by taking advantage of parallelism.
+I have also worked using technologies like **MMX** and **SSE** for improving speed in x86 assembly programs, and with **CUDA** in NVIDIA graphics cards to accelerate programs written in C by taking advantage of parallelism.  
+I am also experienced in using **Docker** to containerize and deploy both distributed and non-distributed applications, and fluent in both **Linux** and **Windows** environments, both for **desktop** and **server** operating systems.
 
 ### Tools and IDEs
 I typically use **Microsoft VS Code** for programming in linux environments, and **Microsoft Visual Studio** or **JetBrains PyCharm** for programming in Windows, but I also have experience working with a variety of other IDEs like **Eclipse** or **DBeaver**.
